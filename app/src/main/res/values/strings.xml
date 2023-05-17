@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Merkez Bankası Döviz Kuru</string>
+
+    <string name="pakıstan_rupisi">PAKİSTAN RUPİSİ</string>
+
+    <string name="suudi_arabistan_riyali">SUUDİ ARABİSTAN RİYALİ</string>
+
+    <string name="abd_dolari">ABD DOLARI</string>
+
+    <string name="euro">EURO</string>
+
+    <string name="japon_yeni">JAPON YENİ</string>
+
+    <string name="rus_rublesi">RUS RUBLESİ</string>
+
+    <string name="guney_kore_wonu">GÜNEY KORE WONU</string>
+</resources>
